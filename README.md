@@ -4,4 +4,4 @@ Image for the execution of the [e-sensing/sits](https://github.com/e-sensing/sit
 
 ## About
 
-This image was created based on [https://hub.docker.com/r/jupyter/datascience-notebook/](datascience-notebook).
+This image was created based on [datascience-notebook](https://hub.docker.com/r/jupyter/datascience-notebook/).
